@@ -1,2 +1,2 @@
 # PychramProjects
-Pycharm Res
+Pycharm Repo
